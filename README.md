@@ -2,18 +2,12 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=software+y+sistemas+computacionales" alt="Typing SVG" /></a>
 </p>
-
-
-<br>
-
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
  
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: Me encanta la programación especialmente el `desarrollo web`.
 - :computer:Tengo experiencia en el desarrollo de aplicaciones Code y No-Code `Bubble.io`, `python`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
