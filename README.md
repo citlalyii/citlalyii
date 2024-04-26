@@ -44,7 +44,7 @@
 <div align="center">                                       
 <a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeInventarios/main/sistInvent.png" width="400" ></a>
 <br>
-</p>Sistema de gestión de inventarios en <strong>Python y sqlite</strong>, con las librerías: Tkinter, sqlite3, Reportlab. Permite generar PDF, CSV y realizar las funciones básicas de un CRUD</p>
+</p>Sistema de gestión de inventarios en <strong>Python y sqlite</strong>, con las librerías: Tkinter, sqlite3, Reportlab. Permite generar PDF, CSV y realizar las funciones básicas de un CRUD.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -56,6 +56,6 @@
 <h3 align="center">SGL</h3>
 <div align="center">
 <a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeGeneracionDeLeads/main/sgl_2.jpg" width="400" ></a>
-<p>Contact Center con integraciones de <strong> Gmail y WhatsApp Cloud API</strong> desarrollado con la herramienta de programación visual <strong>Bubble.io</strong>, incluye funcionalidades de consulta a redes sociales y generación de archivos CSV y PDF</p>
+<p>Contact Center con integraciones de <strong> Gmail y WhatsApp Cloud API</strong> desarrollado con la herramienta de programación visual <strong>Bubble.io</strong>, incluye funcionalidades de consulta a redes sociales y generación de archivos CSV y PDF.</p>
 </div>                                                                                     
 </td> 
