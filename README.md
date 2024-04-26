@@ -53,7 +53,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">SGL</h3>
+<h3 align="center">Sistema de Generación de Leads</h3>
 <div align="center">
 <a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeGeneracionDeLeads/main/sgl_2.jpg" width="400" ></a>
 <p>Contact Center con integraciones de <strong> Gmail y WhatsApp Cloud API</strong> desarrollado con la herramienta de programación visual <strong>Bubble.io</strong>, incluye funcionalidades de consulta a redes sociales y generación de archivos CSV y PDF.</p>
