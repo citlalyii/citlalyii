@@ -26,3 +26,36 @@
       <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,mysql,postman,py,vscode,php,cpp,replit,sqlite,sublime,unity,windows&perline=14" />
     </a>
   </p>
+  Mis Proyectos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Sistema ERP</h3>
+<div align="center">
+<a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaERP/main/erp.jpg" width="400"></a>
+<p>Sistema ERP desarrollado con <strong>programación visual</strong> en la herramienta <strong>Bubble.io</strong> Proyecto Escolar Colaborativo.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Sistema de inventarios</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeInventarios/main/sistInvent.png" width="400" ></a>
+<br>
+</p>Sistema de gestión de inventarios en <strong>Python y sqlite</strong>, con las librerías: Tkinter, sqlite3, Reportlab. Permite generar PDF, CSV y realizar las funciones básicas de un CRUD</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">SGL</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeGeneracionDeLeads/main/sgl_2.jpg" width="400" ></a>
+<p>Contact Center con integraciones de <strong> Gmail y WhatsApp Cloud API</strong> desarrollado con la herramienta de programación visual <strong>Bubble.io</strong>, incluye funcionalidades de consulta a redes sociales y generación de archivos CSV y PDF</p>
+</div>                                                                                     
+</td> 
