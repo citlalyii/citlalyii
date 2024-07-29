@@ -11,7 +11,7 @@
 - :technologist: Me encanta la programación especialmente el `desarrollo web`.
 - :computer:Tengo experiencia en el desarrollo de aplicaciones Code y No-Code `Bubble.io`, `python`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-  📝 Mis herramientas favoritas para el desarollo web `PHP`,`Figma`,`Boostrap` .
+- 📝 Mis herramientas favoritas para el desarollo web `PHP`,`Figma`,`Boostrap` .
 - 🌎 Cuento con idioma Ingles Certificado por `TOEIC`.
 <br>
 <!--h1 without bottom border-->
