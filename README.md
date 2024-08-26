@@ -53,6 +53,14 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Sistema </h3>
+<div align="center">
+<a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaERP/main/erp.jpg" width="400"></a>
+<p>Sistema ERP desarrollado con <strong>programación visual</strong> en la herramienta <strong>Bubble.io</strong> Proyecto Escolar Colaborativo.</p>
+</div>                                                                                
+</td>
+
+<td width="50%">
 <h3 align="center">Sistema de Generación de Leads</h3>
 <div align="center">
 <a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeGeneracionDeLeads/main/sgl_2.jpg" width="400" ></a>
