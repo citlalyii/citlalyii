@@ -53,10 +53,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema </h3>
+<h3 align="center">Sistema de control de inventarios y documentación</h3>
 <div align="center">
 <a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaERP/main/erp.jpg" width="400"></a>
-<p>Sistema ERP desarrollado con <strong>programación visual</strong> en la herramienta <strong>Bubble.io</strong> Proyecto Escolar Colaborativo.</p>
+<p>Sistema de control de inventarios y generacion automatica de cartas responsivas, tickets de entradas y salidas de productos, bitacoras y directorios<strong> con los lenguajes y herramientas de <strong>Python, SQL, Tkinter, FIGMA, ReportLab</strong> Proyecto Escolar Implementado en la empresa automotriz NISSAN CAr One Tuxpan, ver. </p>
 </div>                                                                                
 </td>
 
