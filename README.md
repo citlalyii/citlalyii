@@ -55,7 +55,7 @@
 <td width="50%">
 <h3 align="center">Sistema de control de inventarios y documentación</h3>
 <div align="center">
-<a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeControlDeInventariosYDocumentación/main/imagen1.png" width="400"></a>
+<a target="_blank"><img src="https://raw.githubusercontent.com/citlalyii/SistemaDeControlDeInventariosYDocumentaci-n/main/imagen1.png" width="400"></a>
 <p>Sistema de control de inventarios y generación automática de cartas responsivas, tickets de entrada y salida de productos, manejo de bitacoras y directorios.<strong> Con los lenguajes y herramientas Python, SQL, Tkinter, FIGMA, ReportLab.</strong> Proyecto implementado en la empresa automotriz NISSAN Car One Tuxpan, ver. </p>
 </div>                                                                                
 </td>
